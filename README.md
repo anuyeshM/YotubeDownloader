@@ -7,7 +7,7 @@ If there is any issues please open a new issue.
 
 1. You need to clone this repository
 ```
-git clone https://github.com/mooradal/youtubeDownloader
+
 ```
 
 2. After you clone the repo you will have to navigate to the Server folder
